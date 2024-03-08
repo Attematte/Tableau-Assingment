@@ -19,9 +19,19 @@ The ”profit by country” should use other color combinations such as blue–g
 - Answer: 8
 - For this answer I used a bar chart to visualise the number of matches won by each
 winner
-#### • Which three players had the most wins on hard courts in this dataset? (’hard’ is a category in
-Surface)
+#### • Which three players had the most wins on hard courts in this dataset? (’hard’ is a category in Surface)
+### Answer
+![Fig.3.](assets/Task3.2.png)
+- Djokovic N., Berdych T. and Murray A.
+- Similarly to the previous quesIon, I used a bar chart. This Ime however, I created a set of the players with most wins on the hard surface in order to highlight them in the dataset.
+- 
 #### • How many players in this dataset won only one set in the BMW Open? (Lsets records the number of sets the Loser of the match won, and Wsets records the number of sets the Winner of a match won; in this tournament, you have to win two sets to win a match)
+### Answer
+![Fig.4.](assets/Task3.3.png)
+- 13 players
+- I created separate lists of the winners of the match who wone only one set and losers
+of the match who won only one set. Even though two sets are needed to win the match, there is sIll one player marked as a winner of the match who won only one set. In comparison, there are 12 losing players of the match who won only one set. In both, cases I used the BMW open tournament as a filter.
+
 
 
 
