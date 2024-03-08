@@ -56,7 +56,7 @@ of the match who won only one set. Even though two sets are needed to win the ma
 ### Answer
 ![Fig.6.](assets/Task5.png)
 
-Based on the data and “Branches and average ratings” – treemap provided we can see that the amount of ratings between the branches is roughly the same. However, Branch C has received the best average rating even though it has the least number of ratings. Compared to the other two branches branch B has received considerably lower average raIng, raIng of 6,37.
+Based on the data and “Branches and average ratings” – treemap provided we can see that the amount of ratings between the branches is roughly the same. However, Branch C has received the best average rating even though it has the least number of ratings. Compared to the other two branches branch B has received a considerably lower average rating, a rating of 6,37.
 When looking at the “customer type and raIng”- pie chart, we can see that there is little difference in the average raIngs between members and non-members. Also, the number of members and non-members is almost identical.
 By looking at the “payment type and average rating” bar plot, there is little to no difference between the averages. However, as we create another plot (Payment type, gender, and rating) by adding the genders to the plot, we can start seeing some more significant differences in
 2
