@@ -28,8 +28,7 @@ winner
 #### • How many players in this dataset won only one set in the BMW Open? (Lsets records the number of sets the Loser of the match won, and Wsets records the number of sets the Winner of a match won; in this tournament, you have to win two sets to win a match)
 ### Answer
 ![Fig.4.](assets/Task3.3.png)
-
-![Fig.5.](assets/Task3.3.png)
+![Fig.5.](assets/Tas3.4.png)
 - 13 players
 - I created separate lists of the winners of the match who won only one set and losers
 of the match who won only one set. Even though two sets are needed to win the match, there is only one player marked as a winner of the match who won only one set. In comparison, 12 losing players of the match won only one set. In both, cases I used the BMW open tournament as a filter.
