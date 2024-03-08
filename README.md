@@ -12,15 +12,21 @@ The ”profit by country” should use other color combinations such as blue–g
 
 ## Task2. Basic charts in Tableau
 #### Use the ATP Tennis workbook to answer these questions. In this case, create a visualization (it can also be a simple table) that answers the question, with a separate sheet for each question. Additionally, describe the answer and how the visualization answers it in the main assignment file.
+
 #### • How many players had more than 50 wins in this dataset?
+### Answer
+![Fig.2.](assets/Task3.1.png)
+- Answer: 8
+- For this answer I used a bar chart to visualise the number of matches won by each
+winner
 #### • Which three players had the most wins on hard courts in this dataset? (’hard’ is a category in
 Surface)
 #### • How many players in this dataset won only one set in the BMW Open? (Lsets records the number of sets the Loser of the match won, and Wsets records the number of sets the Winner of a match won; in this tournament, you have to win two sets to win a match)
-![Fig.2.](assets/Task3.1.png)
 
 
 
-### Answer to Task 2. 
+
+ 
 
 
 
