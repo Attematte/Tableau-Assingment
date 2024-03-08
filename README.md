@@ -43,14 +43,30 @@ of the match who won only one set. Even though two sets are needed to win the ma
 
 
 ## Task3. 
-#### In this task, you need to perform data analysis tasks for a super- market chain (’supermarket.csv’). You have the following information in the dataset:
+#### In this task, you need to perform data analysis tasks for a supermarket chain (’supermarket.csv’). You have the following information in the dataset:
 #### • Branch: branch of the supermarket chain, there is data about three different branches (A, B, and C) • Customer type: indicating whether the customer is a Member of the loyalty program or not
 #### • Gender: the gender of the customer
 #### • Quantity: number of products purchased by the customer
 #### • Total: amount of purchase
 #### • Payment: payment type used by the customer
 #### • Income: income of the customer
-#### • Rating: rating given by the customer to the store
-#### In this task you need to understand the relationship between Rating and the other columns. Specifically, you need to provide some insights on differences in Rating in terms of the variables available, e.g., Rating differences across branches, customer types, gender, income of the customer, or payment type. You need to create at least 4 charts, and each column of the data should appear in at least one chart. Finally, combine the charts into a dashboard that you would present to managers of the supermarket chain, and write a 1-2 page report on the insights you gained and what actions you recommend the company to do in order to address issues that you found to be related to low ratings.
+#### • Rating: the rating given by the customer to the store
+#### In this task you need to understand the relationship between Rating and the other columns. Specifically, you need to provide some insights on differences in Rating in terms of the variables available, e.g., Rating differences across branches, customer types, gender, income of the customer, or payment type. You need to create at least 4 charts, and each column of the data should appear in at least one chart. Finally, combine the charts into a dashboard that you would present to managers of the supermarket chain, and write a 1-2 page report on the insights you gained and what actions you recommend the company to do to address issues that you found to be related to low ratings.
+
+### Answer
+![Fig.6.](assets/Task5.png)
+
+Based on the data and “Branches and average ratings” – treemap provided we can see that the amount of ratings between the branches is roughly the same. However, Branch C has received the best average rating even though it has the least number of ratings. Compared to the other two branches branch B has received considerably lower average raIng, raIng of 6,37.
+When looking at the “customer type and raIng”- pie chart, we can see that there is little difference in the average raIngs between members and non-members. Also, the number of members and non-members is almost identical.
+By looking at the “payment type and average rating” bar plot, there is little to no difference between the averages. However, as we create another plot (Payment type, gender, and rating) by adding the genders to the plot, we can start seeing some more significant differences in
+2
+the average ratings. For instance, female customers tend to favor cash as a payment type since they have given the highest rating for cash payment, an average of 6.75 which is the highest of all the three payment options. In comparison, men have given a cash payment of 6.30 on average.
+Purchases made with credit cards have received the highest average rating amongst men, 6.67, whereas women who made purchases with credit cards gave this payment option an average of 6.45. In addition, men have given higher ratings for purchases made with e-wallet, 6.62, whereas women have given this payment option 6.36 on average.
+We can also look at the “average quantity and amount of each rating bar plot” in which we can see the average amount each customer purchased and the amount of each rating. As we can see, only a few people (5) have given a full rating of 10 and their average quantity was 7.9. Between the ratings 5 and 9, customers' total quantities are between 5.1 and 5.9 on average. Based on the plot we can say that buying more products does not necessarily result in a higher rating.
+
+Recommendations:
+
+Based on the data and charts created I would pay closer attention to Branch B and look at why it has received lower ratings. More importantly, it is alarming to see that normal customers have given higher ratings than the members, which tells me that members are not that satisfied. Maybe the benefits that the members receive are perceived as non-significant. so, I would try to improve the member's ratings by giving be"er customer service or perhaps additional offers/discounts.
+Regarding the payment type, gender, and average rating, one could use this information differently when for instance creating targeted marketing campaigns. When targeting male customers, one could promote the payment options of credit cards and Ewallet and when targeting women, one could promote cash as a payment option. Also, one could argue why the ratings of female customers who purchased using Ewallet and credit cards are lower than male customers. Perhaps, the usage of Ewallet is seen difficult? In that case, the branches could promote the benefits of paying with Ewallet and give instructions on how to use this.
 
 
