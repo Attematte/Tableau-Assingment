@@ -16,7 +16,7 @@ The ”profit by country” should use other color combinations such as blue–g
 #### • Which three players had the most wins on hard courts in this dataset? (’hard’ is a category in
 Surface)
 #### • How many players in this dataset won only one set in the BMW Open? (Lsets records the number of sets the Loser of the match won, and Wsets records the number of sets the Winner of a match won; in this tournament, you have to win two sets to win a match)
-![Fig.1.](assets/Task3.png)
+![Fig.2.](assets/Task3.png)
 
 
 
