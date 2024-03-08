@@ -11,12 +11,12 @@ The “My analysis” bubble chart is a bit unclear in the sense that the decima
 The ”profit by country” should use other color combinations such as blue–green instead of red-green because many people might have color deficiency. Also, one might consider using a different chart type to represent the profit by country, since maps can sometimes get confusing. For instance, using a simple bar plot might be more simple option to represent quantities.
 
 ## Task2.
-### In this task, you need to perform data analysis tasks for a super- market chain (’supermarket.csv’). You have the following information in the dataset:
-### • Branch: branch of the supermarket chain, there is data about three different branches (A, B, and C) • Customer type: indicating whether the customer is a Member of the loyalty program or not
-### • Gender: the gender of the customer
-### • Quantity: number of products purchased by the customer
-### • Total: amount of purchase
-### • Payment: payment type used by the customer
-### • Income: income of the customer
-### • Rating: rating given by the customer to the store
-### In this task you need to understand the relationship between Rating and the other columns. Specifically, you need to provide some insights on differences in Rating in terms of the variables available, e.g., Rating differences across branches, customer types, gender, income of the customer, or payment type. You need to create at least 4 charts, and each column of the data should appear in at least one chart. Finally, combine the charts into a dashboard that you would present to managers of the supermarket chain, and write a 1-2 page report on the insights you gained and what actions you recommend the company to do in order to address issues that you found to be related to low ratings.
+#### In this task, you need to perform data analysis tasks for a super- market chain (’supermarket.csv’). You have the following information in the dataset:
+#### • Branch: branch of the supermarket chain, there is data about three different branches (A, B, and C) • Customer type: indicating whether the customer is a Member of the loyalty program or not
+#### • Gender: the gender of the customer
+#### • Quantity: number of products purchased by the customer
+#### • Total: amount of purchase
+#### • Payment: payment type used by the customer
+#### • Income: income of the customer
+#### • Rating: rating given by the customer to the store
+#### In this task you need to understand the relationship between Rating and the other columns. Specifically, you need to provide some insights on differences in Rating in terms of the variables available, e.g., Rating differences across branches, customer types, gender, income of the customer, or payment type. You need to create at least 4 charts, and each column of the data should appear in at least one chart. Finally, combine the charts into a dashboard that you would present to managers of the supermarket chain, and write a 1-2 page report on the insights you gained and what actions you recommend the company to do in order to address issues that you found to be related to low ratings.
