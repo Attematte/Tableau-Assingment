@@ -1,6 +1,5 @@
-# Tableau-Assignment
-# Brief
-This is a final assignment that I did during a business intelligence course while studying at the university. In this assignment, I interpreted dashboards and  used Tableau to visualize and analyze various datasets.  
+# Data-analysis with Tableau
+
 
 ## Task1.
 #### Review the dashboard in Fig. 1. List and briefly discuss at least 3 weaknesses of this visualization based on what you have learned in the Visual Data Storytelling videos. For each weakness, provide a suggestion for improvement.
